@@ -1,0 +1,1 @@
+Daily recording of blood sugar and output as CSV with Python
